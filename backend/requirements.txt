@@ -1,0 +1,9 @@
+flask
+flask_cors
+python-dotenv
+requests
+langgraph
+langchain
+langchain-groq
+langchain-ollama
+ollama
